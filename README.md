@@ -20,11 +20,10 @@ The 8-Puzzle consists of a 3x3 grid of numbered tiles, with one tile (#9) missin
 
 For our puzzle, we will consider that the following state is our goal:
  
-|     |     |     |
-| :-: | :-: | :-: |
-|  1  |  2  |  3  |
-|  8  |  .  |  4  |
-|  7  |  6  |  5  |
+|   1   |   2   |   3   |
+| :---: | :---: | :---: |
+| **8** | **.** | **4** |
+| **7** | **6** | **5** |
 
 
 
