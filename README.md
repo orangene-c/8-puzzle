@@ -4,7 +4,7 @@ Solve 8-puzzle, a type of sliding tile puzzle, by Classic Search Algorithms.
 
 
 
----
+
 ## Goals
 The goal of this repo are:
 - understand efficient state representation, including a successor state function
@@ -12,7 +12,7 @@ The goal of this repo are:
 - Build basic heuristics
 - Implement A* search
 
----
+
 ## Background
 The 8-Puzzle is a type of sliding tile puzzle, the most common of which is the [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle).
 
@@ -27,7 +27,7 @@ For our puzzle, we will consider that the following state is our goal:
 |  7  |  6  |  5  |
 
 
-___
+
 ## Tasks
 **1. State Representation**
 
